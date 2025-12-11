@@ -12,24 +12,12 @@ BEGIN:VEVENT
 SUMMARY:MeasureCamp Malmo
 DTSTART:20260117T090000Z
 DURATION:PT8H
-DTSTAMP:20251211T181959Z
+DTSTAMP:20251211T183231Z
 UID:malmo-2026@measurecamp.org
 CATEGORIES:conference\,unconference\,analytics\,webanalytics\,measurecamp
 DESCRIPTION:MeasureCamp unconference in Malmo\n\nVenue: KAN Malmö Office\
- nAddress: MeasureCamp Malmö is back for its third year onJanuary 17\, 202
- 6! Thefirst ticket releasekicks off onOctober 1\, 2025\, at 18:00 CET. Che
- ck theticket pagefor updates and join us for another incredible day of lea
- rning and sharing. Tickets run out fast\, so be quick!We are currently sig
- ning new sponsors\, so if your company is interested in being part of this
-  event\, reach out to us atmalmo@measurecamp.orgfor more details.See you i
- n Malmö!.\n\nMore info: https://malmo.measurecamp.org/
-LOCATION:KAN Malmö Office\, MeasureCamp Malmö is back for its third year
-  onJanuary 17\, 2026! Thefirst ticket releasekicks off onOctober 1\, 2025\
- , at 18:00 CET. Check theticket pagefor updates and join us for another in
- credible day of learning and sharing. Tickets run out fast\, so be quick!W
- e are currently signing new sponsors\, so if your company is interested in
-  being part of this event\, reach out to us atmalmo@measurecamp.orgfor mor
- e details.See you in Malmö!.
+ n\nMore info: https://malmo.measurecamp.org/
+LOCATION:KAN Malmö Office
 TRANSP:OPAQUE
 URL:https://malmo.measurecamp.org/
 END:VEVENT
@@ -37,62 +25,12 @@ BEGIN:VEVENT
 SUMMARY:MeasureCamp Melbourne
 DTSTART:20260221T090000Z
 DURATION:PT8H
-DTSTAMP:20251211T181959Z
+DTSTAMP:20251211T183231Z
 UID:melbourne-2026@measurecamp.org
 CATEGORIES:conference\,unconference\,analytics\,webanalytics\,measurecamp
 DESCRIPTION:MeasureCamp unconference in Melbourne\n\nVenue: Google Melbour
- ne\nAddress: MeasureCamp Melbourne 2026: The Global Movement ReturnsWe are
-  thrilled to announce thatMeasureCamp Melbourne 2026will officially take p
- lace onJanuary 21st. Following in the footsteps of the original London eve
- nt and its hugely successful counterparts around the globe\, this gatherin
- g is set to once again unite the local analytics community in a celebratio
- n of shared knowledge and open dialogue.What is an Unconference?Unlike tra
- ditional conferences where you sit passively through pre-planned lectures\
- , MeasureCamp turns the format on its head. It is a true “unconference
- ”—a dynamic event where the agenda is a blank canvas at the start of t
- he day. The schedule is built in real-time by you\, the attendees. This un
- ique structure breaks down the barriers between “speakers” and “audi
- ence.” Whether you are a seasoned industry veteran\, a vendor\, or a fre
- sh graduate\, the floor is open for you to lead a session\, spark a debate
- \, or share a case study.Why You Should AttendMeasureCamp is designed to b
- e the antidote to the rigid\, one-way presentations of corporate summits. 
- By fostering a collaborative social framework\, we create an environment w
- here the “hallway track”—those valuable\, spontaneous conversations
- —becomes the main event.The small\, intimate discussion groups encourage
-  active participation rather than passive listening. This format ensures t
- hat the content is always relevant because it is defined and curated by th
- e people in the room. It is the ultimate opportunity to learn from the bes
- t\, develop your skills\, and network with peers and consultants in an atm
- osphere that champions curiosity over hierarchy.Come prepared to teach\, r
- eady to learn\, and eager to connect. At MeasureCamp\, you don’t just at
- tend the event\; you create it.With thanks to our Sponsors:Silver Sponsors
- \n\nMore info: https://melbourne.measurecamp.org
-LOCATION:Google Melbourne\, MeasureCamp Melbourne 2026: The Global Movemen
- t ReturnsWe are thrilled to announce thatMeasureCamp Melbourne 2026will of
- ficially take place onJanuary 21st. Following in the footsteps of the orig
- inal London event and its hugely successful counterparts around the globe\
- , this gathering is set to once again unite the local analytics community 
- in a celebration of shared knowledge and open dialogue.What is an Unconfer
- ence?Unlike traditional conferences where you sit passively through pre-pl
- anned lectures\, MeasureCamp turns the format on its head. It is a true 
- “unconference”—a dynamic event where the agenda is a blank canvas at
-  the start of the day. The schedule is built in real-time by you\, the att
- endees. This unique structure breaks down the barriers between “speakers
- ” and “audience.” Whether you are a seasoned industry veteran\, a ve
- ndor\, or a fresh graduate\, the floor is open for you to lead a session\,
-  spark a debate\, or share a case study.Why You Should AttendMeasureCamp i
- s designed to be the antidote to the rigid\, one-way presentations of corp
- orate summits. By fostering a collaborative social framework\, we create a
- n environment where the “hallway track”—those valuable\, spontaneous
-  conversations—becomes the main event.The small\, intimate discussion gr
- oups encourage active participation rather than passive listening. This fo
- rmat ensures that the content is always relevant because it is defined and
-  curated by the people in the room. It is the ultimate opportunity to lear
- n from the best\, develop your skills\, and network with peers and consult
- ants in an atmosphere that champions curiosity over hierarchy.Come prepare
- d to teach\, ready to learn\, and eager to connect. At MeasureCamp\, you d
- on’t just attend the event\; you create it.With thanks to our Sponsors:S
- ilver Sponsors
+ ne\n\nMore info: https://melbourne.measurecamp.org
+LOCATION:Google Melbourne
 TRANSP:OPAQUE
 URL:https://melbourne.measurecamp.org
 END:VEVENT
@@ -100,22 +38,12 @@ BEGIN:VEVENT
 SUMMARY:MeasureCamp Italy
 DTSTART:20260321T090000Z
 DURATION:PT8H
-DTSTAMP:20251211T181959Z
+DTSTAMP:20251211T183231Z
 UID:italy-2026@measurecamp.org
 CATEGORIES:conference\,unconference\,analytics\,webanalytics\,measurecamp
 DESCRIPTION:MeasureCamp unconference in Italy\n\nVenue: Starting at 09.00\
- nAddress: The wait is over! MeasureCamp Italy is back for 2025\, and this 
- time\, we’re bringing the excitement to a brand-new location in the vibr
- ant city of Bologna. Mark your calendars because this year’s event will 
- be unforgettable. When? Saturday\, March 8\, 2025. This date isn’t just 
- special because of MeasureCamp. It’s also International Women’s Day\, 
- […]\n\nMore info: https://italy.measurecamp.org/
-LOCATION:Starting at 09.00\, The wait is over! MeasureCamp Italy is back f
- or 2025\, and this time\, we’re bringing the excitement to a brand-new l
- ocation in the vibrant city of Bologna. Mark your calendars because this y
- ear’s event will be unforgettable. When? Saturday\, March 8\, 2025. This
-  date isn’t just special because of MeasureCamp. It’s also Internation
- al Women’s Day\, […]
+ n\nMore info: https://italy.measurecamp.org/
+LOCATION:Starting at 09.00
 TRANSP:OPAQUE
 URL:https://italy.measurecamp.org/
 END:VEVENT
@@ -123,39 +51,12 @@ BEGIN:VEVENT
 SUMMARY:MeasureCamp Helsinki
 DTSTART:20260328T090000Z
 DURATION:PT8H
-DTSTAMP:20251211T181959Z
+DTSTAMP:20251211T183231Z
 UID:helsinki-2026@measurecamp.org
 CATEGORIES:conference\,unconference\,analytics\,webanalytics\,measurecamp
 DESCRIPTION:MeasureCamp unconference in Helsinki\n\nVenue: Helsinki Chambe
- r of Commerce\nAddress: MeasureCamp HelsinkiThe third edition of MeasureCa
- mp Helsinki was held at Helsinki Region Chamber of Commerce on 29th of Mar
- ch 2025. We want to thank all the attendees\, session speakers\, volunteer
- s and sponsors for making the day unforgettable!What is MeasureCamp?Measur
- eCamp is an unconference\, the schedule is created on the day and speakers
-  are fellow attendees. Everyone is encouraged to discuss and participate i
- n sessions\, even to lead sessions themselves. You focus on what YOU find 
- most interesting and useful. MeasureCamp dates all the way back to 2012 an
- d the first-ever event in Helsinki was held on March 2023.What makes it so
-  great?Free to attend\, one-day unconferenceDigital analytics knowledge sh
- aringFormat: Short 30 minute sessions\, ran by the attendeesAttended by in
- dustry experts and beginnersMultiple rooms and a variety of topicsEveryone
-  wants to be there – it’s on a SaturdayFree lunchAlso\, keep your even
- ing free for socialising into the night…\n\nMore info: https://helsinki.
- measurecamp.org/
-LOCATION:Helsinki Chamber of Commerce\, MeasureCamp HelsinkiThe third edit
- ion of MeasureCamp Helsinki was held at Helsinki Region Chamber of Commerc
- e on 29th of March 2025. We want to thank all the attendees\, session spea
- kers\, volunteers and sponsors for making the day unforgettable!What is Me
- asureCamp?MeasureCamp is an unconference\, the schedule is created on the 
- day and speakers are fellow attendees. Everyone is encouraged to discuss a
- nd participate in sessions\, even to lead sessions themselves. You focus o
- n what YOU find most interesting and useful. MeasureCamp dates all the way
-  back to 2012 and the first-ever event in Helsinki was held on March 2023.
- What makes it so great?Free to attend\, one-day unconferenceDigital analyt
- ics knowledge sharingFormat: Short 30 minute sessions\, ran by the attende
- esAttended by industry experts and beginnersMultiple rooms and a variety o
- f topicsEveryone wants to be there – it’s on a SaturdayFree lunchAlso\
- , keep your evening free for socialising into the night…
+ r of Commerce\n\nMore info: https://helsinki.measurecamp.org/
+LOCATION:Helsinki Chamber of Commerce
 TRANSP:OPAQUE
 URL:https://helsinki.measurecamp.org/
 END:VEVENT
@@ -163,14 +64,12 @@ BEGIN:VEVENT
 SUMMARY:MeasureCamp Amsterdam
 DTSTART:20260418T090000Z
 DURATION:PT8H
-DTSTAMP:20251211T181959Z
+DTSTAMP:20251211T183231Z
 UID:amsterdam-2026@measurecamp.org
 CATEGORIES:conference\,unconference\,analytics\,webanalytics\,measurecamp
 DESCRIPTION:MeasureCamp unconference in Amsterdam\n\nVenue: House of Watt\
- nAddress: ByYard© 2025 MeasureCamp. Alle rechten gereserveerd\n\nMore inf
- o: https://amsterdam.measurecamp.org/
-LOCATION:House of Watt\, ByYard© 2025 MeasureCamp. Alle rechten gereserve
- erd
+ n\nMore info: https://amsterdam.measurecamp.org/
+LOCATION:House of Watt
 TRANSP:OPAQUE
 URL:https://amsterdam.measurecamp.org/
 END:VEVENT
@@ -178,47 +77,12 @@ BEGIN:VEVENT
 SUMMARY:MeasureCamp New York
 DTSTART:20250405T090000Z
 DURATION:PT8H
-DTSTAMP:20251211T181959Z
+DTSTAMP:20251211T183231Z
 UID:new-york-2025@measurecamp.org
 CATEGORIES:conference\,unconference\,analytics\,webanalytics\,measurecamp
 DESCRIPTION:MeasureCamp unconference in New York\n\nVenue: NJIT - Campus C
- enter\nAddress: Parking & Event InfoJoin us for the 2nd Annual MCNY!Measur
- eCamp New York is set to take place at New Jersey Institute of Technology 
- on April 5th\, 2025MeasureCampis anunconferencestarted nearly a decade ago
-  in London that has quickly spread around the globe. We are excited to bri
- ng the event to New York (OK\, technically New Jersey\, but close enough!)
- .  As an unconference\, the Measurecamp schedule is created on the day of
-  the event and speakers are fellow attendees.  Everyone is encouraged to 
- lead a session themselves based on a topic that is relevant to the analyti
- cs community.  You focus on whatYOUfind most interesting and useful.As a 
- concept unconferences are designed to encourage discussions & exchange of 
- ideas and have proven to be extremely popular in recent years. They provid
- e an alternative to the traditional one-way conferences through a more col
- laborative social framework for knowledge sharing. With its small discussi
- on group format and the schedule defined and curated by attendees\,Measure
- Campprovides participants with the ultimate opportunity to learn\, develop
-  and network with peers\, consultants and vendors.Check out the video belo
- w to learn a little more about MeasureCamp. We hope that you will join us 
- and make this MeasureCampNY a success!\n\nMore info: https://newyork.measu
- recamp.org/
-LOCATION:NJIT - Campus Center\, Parking & Event InfoJoin us for the 2nd An
- nual MCNY!MeasureCamp New York is set to take place at New Jersey Institut
- e of Technology on April 5th\, 2025MeasureCampis anunconferencestarted nea
- rly a decade ago in London that has quickly spread around the globe. We ar
- e excited to bring the event to New York (OK\, technically New Jersey\, bu
- t close enough!).  As an unconference\, the Measurecamp schedule is creat
- ed on the day of the event and speakers are fellow attendees.  Everyone i
- s encouraged to lead a session themselves based on a topic that is relevan
- t to the analytics community.  You focus on whatYOUfind most interesting 
- and useful.As a concept unconferences are designed to encourage discussion
- s & exchange of ideas and have proven to be extremely popular in recent ye
- ars. They provide an alternative to the traditional one-way conferences th
- rough a more collaborative social framework for knowledge sharing. With it
- s small discussion group format and the schedule defined and curated by at
- tendees\,MeasureCampprovides participants with the ultimate opportunity to
-  learn\, develop and network with peers\, consultants and vendors.Check ou
- t the video below to learn a little more about MeasureCamp. We hope that y
- ou will join us and make this MeasureCampNY a success!
+ enter\n\nMore info: https://newyork.measurecamp.org/
+LOCATION:NJIT - Campus Center
 TRANSP:OPAQUE
 URL:https://newyork.measurecamp.org/
 END:VEVENT
@@ -226,62 +90,12 @@ BEGIN:VEVENT
 SUMMARY:MeasureCamp Serbia
 DTSTART:20250405T090000Z
 DURATION:PT8H
-DTSTAMP:20251211T181959Z
+DTSTAMP:20251211T183231Z
 UID:serbia-2025@measurecamp.org
 CATEGORIES:conference\,unconference\,analytics\,webanalytics\,measurecamp
 DESCRIPTION:MeasureCamp unconference in Serbia\n\nVenue: Startit Center Be
- lgrade\nAddress: This marks the first-ever MeasureCamp event in Serbia!Mea
- sureCamp is an unconference where the schedule is built by attendees on th
- e day\, and everyone is encouraged to take part. Whether it’s participat
- ing in sessions\, hosting discussions\, or presenting topics\, you’ll fo
- cus on what’s most valuable to you.Join us in Belgrade on 5th April!Why 
- is MeasureCamp so special?Free\, one-day unconferenceCollaborative digital
-  analytics knowledge-sharingShort\, 30-minute sessions led by attendeesA m
- ix of industry veterans and beginnersMultiple rooms covering diverse topic
- sHeld on a Saturday so everyone can attendFree lunchA social evening to ke
- ep the conversations goingContent and FormatThe content of MeasureCamp Ser
- bia will be shaped by you—our attendees. Everyone is welcome to organize
- \, lead\, or participate in discussions about the topics they care most ab
- out. This hands-on format ensures maximum value for everyone involved.Unli
- ke traditional conferences\, unconferences foster collaboration and open d
- iscussions. With small-group sessions and a schedule created by attendees\
- , MeasureCamp provides the perfect environment to learn\, network\, and ex
- change ideas with peers\, consultants\, and vendors.Welcoming Internationa
- l AttendeesMeasureCamp Serbia is open to participants from around the glob
- e. Dedicated rooms for English sessions will ensure everyone can fully eng
- age\, regardless of language. Opening and closing sessions will also be in
-  English\, and after-party beers? Well\, those need no translation!Ticket 
- ReleasesTo give everyone a fair shot at attending\, tickets are released i
- n batches. Keep an eye on Twitter\, LinkedIn\, and the MeasureCamp newslet
- ter for announcements. Don’t miss your chance to grab a spot at this exc
- iting event!With thanks to our Sponsors:Gold SponsorsSilver SponsorsBronze
-  Sponsors\n\nMore info: https://belgrade.measurecamp.org/
-LOCATION:Startit Center Belgrade\, This marks the first-ever MeasureCamp e
- vent in Serbia!MeasureCamp is an unconference where the schedule is built 
- by attendees on the day\, and everyone is encouraged to take part. Whether
-  it’s participating in sessions\, hosting discussions\, or presenting to
- pics\, you’ll focus on what’s most valuable to you.Join us in Belgrade
-  on 5th April!Why is MeasureCamp so special?Free\, one-day unconferenceCol
- laborative digital analytics knowledge-sharingShort\, 30-minute sessions l
- ed by attendeesA mix of industry veterans and beginnersMultiple rooms cove
- ring diverse topicsHeld on a Saturday so everyone can attendFree lunchA so
- cial evening to keep the conversations goingContent and FormatThe content 
- of MeasureCamp Serbia will be shaped by you—our attendees. Everyone is w
- elcome to organize\, lead\, or participate in discussions about the topics
-  they care most about. This hands-on format ensures maximum value for ever
- yone involved.Unlike traditional conferences\, unconferences foster collab
- oration and open discussions. With small-group sessions and a schedule cre
- ated by attendees\, MeasureCamp provides the perfect environment to learn\
- , network\, and exchange ideas with peers\, consultants\, and vendors.Welc
- oming International AttendeesMeasureCamp Serbia is open to participants fr
- om around the globe. Dedicated rooms for English sessions will ensure ever
- yone can fully engage\, regardless of language. Opening and closing sessio
- ns will also be in English\, and after-party beers? Well\, those need no t
- ranslation!Ticket ReleasesTo give everyone a fair shot at attending\, tick
- ets are released in batches. Keep an eye on Twitter\, LinkedIn\, and the M
- easureCamp newsletter for announcements. Don’t miss your chance to grab 
- a spot at this exciting event!With thanks to our Sponsors:Gold SponsorsSil
- ver SponsorsBronze Sponsors
+ lgrade\n\nMore info: https://belgrade.measurecamp.org/
+LOCATION:Startit Center Belgrade
 TRANSP:OPAQUE
 URL:https://belgrade.measurecamp.org/
 END:VEVENT
@@ -289,33 +103,12 @@ BEGIN:VEVENT
 SUMMARY:MeasureCamp Copenhagen
 DTSTART:20250614T090000Z
 DURATION:PT8H
-DTSTAMP:20251211T181959Z
+DTSTAMP:20251211T183231Z
 UID:copenhagen-2025@measurecamp.org
 CATEGORIES:conference\,unconference\,analytics\,webanalytics\,measurecamp
-DESCRIPTION:MeasureCamp unconference in Copenhagen\n\nVenue: Pandora\nAddr
- ess: Recent News:I ❤️ MeasurecampCPHI’ll say it before\, and I’ll 
- say it again: Measurecamp Copenhagen is one of the highlights of my year\,
-  both in the professional and personal sense.  I first heard of Measureca
- mp during a Web Analytics Wednesday CPH announcement back in 2017\, as the
- y were looking for volunteers to join the steering committee to bring the 
- […]Read more »User Feedback: Adding a New Dimension to Your AnalyticsTh
- e original blog post appeared on the Usabilla Blog. Today’s companies kn
- ow they need to be optimizing their digital channels to stay ahead\, but h
- ow exactly do they do it? And where do they start? Some will tell you that
-  there’s no better method than hard\, quantitative data from analytics t
- ools. Web analytics are a […]Read more »\n\nMore info: https://copenhag
- en.measurecamp.org/
-LOCATION:Pandora\, Recent News:I ❤️ MeasurecampCPHI’ll say it before
- \, and I’ll say it again: Measurecamp Copenhagen is one of the highlight
- s of my year\, both in the professional and personal sense.  I first hear
- d of Measurecamp during a Web Analytics Wednesday CPH announcement back in
-  2017\, as they were looking for volunteers to join the steering committee
-  to bring the […]Read more »User Feedback: Adding a New Dimension to Yo
- ur AnalyticsThe original blog post appeared on the Usabilla Blog. Today’
- s companies know they need to be optimizing their digital channels to stay
-  ahead\, but how exactly do they do it? And where do they start? Some will
-  tell you that there’s no better method than hard\, quantitative data fr
- om analytics tools. Web analytics are a […]Read more »
+DESCRIPTION:MeasureCamp unconference in Copenhagen\n\nVenue: Pandora\n\nMo
+ re info: https://copenhagen.measurecamp.org/
+LOCATION:Pandora
 TRANSP:OPAQUE
 URL:https://copenhagen.measurecamp.org/
 END:VEVENT
@@ -323,14 +116,12 @@ BEGIN:VEVENT
 SUMMARY:MeasureCamp Paris
 DTSTART:20250614T090000Z
 DURATION:PT8H
-DTSTAMP:20251211T181959Z
+DTSTAMP:20251211T183231Z
 UID:paris-2025@measurecamp.org
 CATEGORIES:conference\,unconference\,analytics\,webanalytics\,measurecamp
 DESCRIPTION:MeasureCamp unconference in Paris\n\nVenue: - 8h30 - 17h00 + a
- fter\nAddress: ByYard© 2025 MeasureCamp. Tous droits réservés.\n\nMore 
- info: https://paris.measurecamp.org/
-LOCATION:- 8h30 - 17h00 + after\, ByYard© 2025 MeasureCamp. Tous droits r
- éservés.
+ fter\n\nMore info: https://paris.measurecamp.org/
+LOCATION:- 8h30 - 17h00 + after
 TRANSP:OPAQUE
 URL:https://paris.measurecamp.org/
 END:VEVENT
@@ -338,14 +129,12 @@ BEGIN:VEVENT
 SUMMARY:MeasureCamp Toronto
 DTSTART:20251004T090000Z
 DURATION:PT8H
-DTSTAMP:20251211T181959Z
+DTSTAMP:20251211T183231Z
 UID:toronto-2025@measurecamp.org
 CATEGORIES:conference\,unconference\,analytics\,webanalytics\,measurecamp
 DESCRIPTION:MeasureCamp unconference in Toronto\n\nVenue: Humber Downtown\
- nAddress: Join us for the 3rd annual MeasureCamp Toronto in 2026! Stay tun
- ed!\n\nMore info: https://toronto.measurecamp.org/
-LOCATION:Humber Downtown\, Join us for the 3rd annual MeasureCamp Toronto 
- in 2026! Stay tuned!
+ n\nMore info: https://toronto.measurecamp.org/
+LOCATION:Humber Downtown
 TRANSP:OPAQUE
 URL:https://toronto.measurecamp.org/
 END:VEVENT
@@ -353,77 +142,12 @@ BEGIN:VEVENT
 SUMMARY:MeasureCamp Washington DC
 DTSTART:20251004T090000Z
 DURATION:PT8H
-DTSTAMP:20251211T181959Z
+DTSTAMP:20251211T183231Z
 UID:washington-dc-2025@measurecamp.org
 CATEGORIES:conference\,unconference\,analytics\,webanalytics\,measurecamp
 DESCRIPTION:MeasureCamp unconference in Washington DC\n\nVenue: District A
- rchitecture Center\nAddress: MeasureCamp is an open\, free-to-attend uncon
- ference\, different from any other digital analytics conference held aroun
- d the world.MeasureCampis anunconference that was started nearly a decade
-  ago in London and has sincequickly spread around the globe. We are excite
- d to bring the event to Washington\, DC!  As an unconference\, the Measur
- ecamp schedule is created on the day of the event\, and speakers are fello
- w attendees.  Everyone is encouraged to lead a session on a topic relevan
- t to the analytics community.  You focus on whatYOUfind most interesting 
- and useful.As a concept\, unconferences are designed to encourage discussi
- ons & exchange of ideas and have proven to be extremely popular in recent 
- years. They provide an alternative to the traditional one-way conferences 
- through a more collaborative social framework for knowledge sharing. With 
- its small discussion group format andschedule defined and curated by atten
- dees\,MeasureCampoffers participantsthe ultimate opportunity to learn\, de
- velop\, and network with peers\, consultants\, and vendors.What can you ex
- pect at MeasureCamp DC?Amazing talks\, presentations\, and discussions fro
- m industry prosNumerous networking opportunities with analytics profession
- alsMeasureCamp-branded swagBreakfast\, lunch\, snacks\, coffee\, and drink
- sAnalytics-related entertainmentAfter PartyPlan on presenting at MeasureCa
- mp?Download the Session CardProvide a brief description of your sessionTag
-  us onLinkedInto highlight your session!Review the rulesof presentingDigit
- al Session BoardExample Sessions from other MeasureCamp events:From Dashbo
- arder to Trusted AdvisorWhat I Wish I Knew Before I Became a People Manage
- r in DataELI5: Simplicity of Persuasion Data StorytellingBest Practices fo
- r Self-Service AnalyticsMost Common GA4 Collection ErrorsDoing Vendor Eval
- uation Without Losing Your HeadGA4: Busting Myths and Dropping TipsCompari
- son of Upper-Funnel Campaign Tracking MethodologiesServer-side: The Good\,
-  The Bad\, and The UglyTurning Analytics From a Cost Center into a Profit 
- CenterThe “Pains” of Analytics: A Collaborative AnalysisAutomate Insig
- ht Generation with/ AI AgentsEthics Spotlight: Framework for Generative AI
- Analytics Freelancers discussionMeasure Conversion When You Don’t Sell O
- nlineCheck out the video below to learn a little more about MeasureCamp. W
- e hope that you will join us this fall!\n\nMore info: https://washingtondc
- .measurecamp.org/
-LOCATION:District Architecture Center\, MeasureCamp is an open\, free-to-a
- ttend unconference\, different from any other digital analytics conference
-  held around the world.MeasureCampis anunconference that was started near
- ly a decade ago in London and has sincequickly spread around the globe. We
-  are excited to bring the event to Washington\, DC!  As an unconference\,
-  the Measurecamp schedule is created on the day of the event\, and speaker
- s are fellow attendees.  Everyone is encouraged to lead a session on a to
- pic relevant to the analytics community.  You focus on whatYOUfind most i
- nteresting and useful.As a concept\, unconferences are designed to encoura
- ge discussions & exchange of ideas and have proven to be extremely popular
-  in recent years. They provide an alternative to the traditional one-way c
- onferences through a more collaborative social framework for knowledge sha
- ring. With its small discussion group format andschedule defined and curat
- ed by attendees\,MeasureCampoffers participantsthe ultimate opportunity to
-  learn\, develop\, and network with peers\, consultants\, and vendors.What
-  can you expect at MeasureCamp DC?Amazing talks\, presentations\, and disc
- ussions from industry prosNumerous networking opportunities with analytics
-  professionalsMeasureCamp-branded swagBreakfast\, lunch\, snacks\, coffee\
- , and drinksAnalytics-related entertainmentAfter PartyPlan on presenting a
- t MeasureCamp?Download the Session CardProvide a brief description of your
-  sessionTag us onLinkedInto highlight your session!Review the rulesof pres
- entingDigital Session BoardExample Sessions from other MeasureCamp events:
- From Dashboarder to Trusted AdvisorWhat I Wish I Knew Before I Became a Pe
- ople Manager in DataELI5: Simplicity of Persuasion Data StorytellingBest P
- ractices for Self-Service AnalyticsMost Common GA4 Collection ErrorsDoing 
- Vendor Evaluation Without Losing Your HeadGA4: Busting Myths and Dropping 
- TipsComparison of Upper-Funnel Campaign Tracking MethodologiesServer-side:
-  The Good\, The Bad\, and The UglyTurning Analytics From a Cost Center int
- o a Profit CenterThe “Pains” of Analytics: A Collaborative AnalysisAut
- omate Insight Generation with/ AI AgentsEthics Spotlight: Framework for Ge
- nerative AIAnalytics Freelancers discussionMeasure Conversion When You Don
- ’t Sell OnlineCheck out the video below to learn a little more about Mea
- sureCamp. We hope that you will join us this fall!
+ rchitecture Center\n\nMore info: https://washingtondc.measurecamp.org/
+LOCATION:District Architecture Center
 TRANSP:OPAQUE
 URL:https://washingtondc.measurecamp.org/
 END:VEVENT

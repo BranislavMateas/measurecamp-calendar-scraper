@@ -67,9 +67,18 @@ class ICSGenerator:
             event.add('uid', f"{event_data.get('id')}@measurecamp.org")
             event.add('dtstamp', datetime.now(ZoneInfo('UTC')))
             event.add('dtstart', event_datetime)
+
+            # Clean summary - just city name
             event.add('summary', f"MeasureCamp {event_data.get('city')}")
-            event.add('description', f"MeasureCamp unconference in {event_data.get('city')}\n\nVenue: {event_data.get('venue', 'TBD')}\nAddress: {event_data.get('address', 'TBD')}\n\nMore info: {event_data.get('url')}")
-            event.add('location', f"{event_data.get('venue', 'TBD')}, {event_data.get('address', 'TBD')}")
+
+            # Clean location - just venue name
+            venue = event_data.get('venue', 'TBD')
+            event.add('location', venue)
+
+            # Clean description - structured format
+            description = f"MeasureCamp unconference in {event_data.get('city')}\n\nVenue: {venue}\n\nMore info: {event_data.get('url')}"
+            event.add('description', description)
+
             event.add('url', event_data.get('url'))
             event.add('categories', 'conference,unconference,analytics,webanalytics,measurecamp')
 
