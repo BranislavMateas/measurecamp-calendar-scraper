@@ -71,65 +71,56 @@ def extract_event_details(event_url):
         'address': None
     }
 
-    # Look for header section with event details
-    # Pattern: date and time in one h3/span, venue in another h3/span
-    headers = soup.find_all(['h3', 'span'])
-
     date_str = None
     time_str = None
     venue_str = None
     address_str = None
 
-    for i, elem in enumerate(headers):
-        text = elem.get_text(strip=True)
+    # First, look for the structured header with date in class="headerdetails datey"
+    header_details = soup.find('div', class_='headerdetails datey')
+    if header_details:
+        # Date is in h3 within headerdate div
+        header_date = header_details.find('div', class_='headerdate')
+        if header_date:
+            h3 = header_date.find('h3')
+            if h3:
+                # Extract date from h3 text (e.g., "Saturday 14 Jun, 2025")
+                text = h3.get_text(strip=True)
+                # Remove icon text if present
+                text = re.sub(r'<i.*?</i>', '', text)
+                text = h3.get_text(strip=True)
+                date_match = re.search(r'(Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday)\s+(\d{1,2})\s+(\w+),?\s*(\d{4})?', text)
+                if date_match:
+                    day_name, day, month, year = date_match.groups()
+                    date_str = f"{day_name} {day} {month}" + (f" {year}" if year else "")
 
-        # Match date pattern: "Saturday 18 Apr, 2026" or "Saturday 18 Apr"
-        date_match = re.search(r'(Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday)\s+(\d{1,2})\s+(\w+),?\s*(\d{4})?', text)
-        if date_match:
-            day_name, day, month, year = date_match.groups()
-            date_str = f"{day_name} {day} {month}" + (f" {year}" if year else "")
+            # Time info might be in span (e.g., "- 8h30 - 17h00 + after")
+            # We'll treat as all-day event if time is not clearly specified
+            span = header_date.find('span')
+            if span:
+                span_text = span.get_text(strip=True)
+                # Try to extract specific time patterns (e.g., "09:00" or "8h30")
+                time_match = re.search(r'(\d{1,2}):(\d{2})', span_text)
+                if time_match:
+                    time_str = f"{time_match.group(1)}:{time_match.group(2)}"
 
-        # Match time pattern: "Starting at 09:00" or "09:00"
-        time_match = re.search(r'(\d{1,2}):(\d{2})', text)
-        if time_match and not date_match:  # Make sure it's not part of date
-            time_str = f"{time_match.group(1)}:{time_match.group(2)}"
+    # Look for venue and address in structured "headerdetails locy" container
+    header_loc = soup.find('div', class_='headerdetails locy')
+    if header_loc:
+        # Venue name is in h3 within headerloc div
+        header_loc_div = header_loc.find('div', class_='headerloc')
+        if header_loc_div:
+            h3 = header_loc_div.find('h3')
+            if h3:
+                # Get text from h3, excluding icon
+                venue_str = h3.get_text(strip=True)
 
-        # Look for venue (usually before address)
-        # Heuristic: if it's not a date/time, might be venue or address
-        if not date_match and not time_match and text and len(text) < 100:
-            if address_str and not venue_str:
-                venue_str = text
-            elif not address_str and not venue_str:
-                # Could be venue name
-                if ',' not in text:  # Venue names usually don't have commas
-                    venue_str = text
-
-    # Try alternative extraction method - look for specific patterns in text content
-    page_text = soup.get_text()
-
-    # Try to find date in page text
-    if not date_str:
-        date_match = re.search(r'(Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday)\s+(\d{1,2})\s+(\w+),?\s*(\d{4})?', page_text)
-        if date_match:
-            day_name, day, month, year = date_match.groups()
-            date_str = f"{day_name} {day} {month}" + (f" {year}" if year else "")
-
-    # Try to find time in page text
-    if not time_str:
-        time_match = re.search(r'[Ss]tarting at\s+(\d{1,2}):(\d{2})', page_text)
-        if time_match:
-            time_str = f"{time_match.group(1)}:{time_match.group(2)}"
-
-    # Look for venue and address in structured way
-    # Usually in format: venue name on one line, address on next
-    for elem in soup.find_all(['h3', 'p', 'div']):
-        text = elem.get_text(strip=True)
-
-        # Check if it looks like an address (contains number, street indicators, etc.)
-        if re.search(r'\d+.*(?:street|str|avenue|ave|road|rd|lane|ln|square|sq|plaza|drive|dr|court|ct|building|floor|apartment|apt|suite)', text, re.IGNORECASE):
-            address_str = text
-        elif venue_str and not address_str and ',' in text and any(x in text for x in ['street', 'str', 'avenue', 'ave', 'road', 'rd', 'lane', 'ln', 'square', 'plaza', 'drive', 'dr', 'court', 'ct']):
-            address_str = text
+            # Address is in span, need to remove the link text
+            span = header_loc_div.find('span')
+            if span:
+                span_text = span.get_text(strip=True)
+                # Remove link text like "Localisation", "Map", etc.
+                address_str = re.sub(r'\s*\(?(?:Localisation|Localiser|View the venue|Maps?|Localizer).*$', '', span_text, flags=re.IGNORECASE).strip()
 
     # Parse date to YYYY-MM-DD format
     parsed_date = None
