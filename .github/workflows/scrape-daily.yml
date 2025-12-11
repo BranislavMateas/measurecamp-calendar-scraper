@@ -11,6 +11,8 @@ on:
 jobs:
   scrape:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - uses: actions/checkout@v4
@@ -26,10 +28,12 @@ jobs:
       - name: Scrape MeasureCamp events
         run: python main.py
 
-      - name: Commit changes
+      - name: Commit and push changes
         uses: EndBug/add-and-commit@v9
         with:
-          default_author: github_actions
+          author_name: github-actions[bot]
+          author_email: github-actions[bot]@users.noreply.github.com
           message: 'chore: update MeasureCamp events'
           add: 'events.json measurecamp-events.ics'
           push: true
+          github_token: ${{ secrets.GITHUB_TOKEN }}
