@@ -12,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:MeasureCamp Malmo
 DTSTART:20260117T090000Z
 DURATION:PT8H
-DTSTAMP:20251211T180904Z
+DTSTAMP:20251211T181619Z
 UID:malmo-2026@measurecamp.org
 CATEGORIES:conference\,unconference\,analytics\,webanalytics\,measurecamp
 DESCRIPTION:MeasureCamp unconference in Malmo\n\nVenue: KAN Malmö Office\
@@ -37,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:MeasureCamp Melbourne
 DTSTART:20260221T090000Z
 DURATION:PT8H
-DTSTAMP:20251211T180904Z
+DTSTAMP:20251211T181619Z
 UID:melbourne-2026@measurecamp.org
 CATEGORIES:conference\,unconference\,analytics\,webanalytics\,measurecamp
 DESCRIPTION:MeasureCamp unconference in Melbourne\n\nVenue: Google Melbour
@@ -100,7 +100,7 @@ BEGIN:VEVENT
 SUMMARY:MeasureCamp Italy
 DTSTART:20260321T090000Z
 DURATION:PT8H
-DTSTAMP:20251211T180904Z
+DTSTAMP:20251211T181619Z
 UID:italy-2026@measurecamp.org
 CATEGORIES:conference\,unconference\,analytics\,webanalytics\,measurecamp
 DESCRIPTION:MeasureCamp unconference in Italy\n\nVenue: Starting at 09.00\
@@ -123,7 +123,7 @@ BEGIN:VEVENT
 SUMMARY:MeasureCamp Helsinki
 DTSTART:20260328T090000Z
 DURATION:PT8H
-DTSTAMP:20251211T180904Z
+DTSTAMP:20251211T181619Z
 UID:helsinki-2026@measurecamp.org
 CATEGORIES:conference\,unconference\,analytics\,webanalytics\,measurecamp
 DESCRIPTION:MeasureCamp unconference in Helsinki\n\nVenue: Helsinki Chambe
@@ -163,7 +163,7 @@ BEGIN:VEVENT
 SUMMARY:MeasureCamp Amsterdam
 DTSTART:20260418T090000Z
 DURATION:PT8H
-DTSTAMP:20251211T180904Z
+DTSTAMP:20251211T181619Z
 UID:amsterdam-2026@measurecamp.org
 CATEGORIES:conference\,unconference\,analytics\,webanalytics\,measurecamp
 DESCRIPTION:MeasureCamp unconference in Amsterdam\n\nVenue: House of Watt\
@@ -178,7 +178,7 @@ BEGIN:VEVENT
 SUMMARY:MeasureCamp New York
 DTSTART:20250405T090000Z
 DURATION:PT8H
-DTSTAMP:20251211T180904Z
+DTSTAMP:20251211T181619Z
 UID:new-york-2025@measurecamp.org
 CATEGORIES:conference\,unconference\,analytics\,webanalytics\,measurecamp
 DESCRIPTION:MeasureCamp unconference in New York\n\nVenue: NJIT - Campus C
@@ -226,7 +226,7 @@ BEGIN:VEVENT
 SUMMARY:MeasureCamp Serbia
 DTSTART:20250405T090000Z
 DURATION:PT8H
-DTSTAMP:20251211T180904Z
+DTSTAMP:20251211T181619Z
 UID:serbia-2025@measurecamp.org
 CATEGORIES:conference\,unconference\,analytics\,webanalytics\,measurecamp
 DESCRIPTION:MeasureCamp unconference in Serbia\n\nVenue: Startit Center Be
@@ -289,7 +289,7 @@ BEGIN:VEVENT
 SUMMARY:MeasureCamp Copenhagen
 DTSTART:20250614T090000Z
 DURATION:PT8H
-DTSTAMP:20251211T180904Z
+DTSTAMP:20251211T181619Z
 UID:copenhagen-2025@measurecamp.org
 CATEGORIES:conference\,unconference\,analytics\,webanalytics\,measurecamp
 DESCRIPTION:MeasureCamp unconference in Copenhagen\n\nVenue: Pandora\nAddr
@@ -323,7 +323,7 @@ BEGIN:VEVENT
 SUMMARY:MeasureCamp Paris
 DTSTART:20250614T090000Z
 DURATION:PT8H
-DTSTAMP:20251211T180904Z
+DTSTAMP:20251211T181619Z
 UID:paris-2025@measurecamp.org
 CATEGORIES:conference\,unconference\,analytics\,webanalytics\,measurecamp
 DESCRIPTION:MeasureCamp unconference in Paris\n\nVenue: - 8h30 - 17h00 + a
@@ -338,7 +338,7 @@ BEGIN:VEVENT
 SUMMARY:MeasureCamp Toronto
 DTSTART:20251004T090000Z
 DURATION:PT8H
-DTSTAMP:20251211T180904Z
+DTSTAMP:20251211T181619Z
 UID:toronto-2025@measurecamp.org
 CATEGORIES:conference\,unconference\,analytics\,webanalytics\,measurecamp
 DESCRIPTION:MeasureCamp unconference in Toronto\n\nVenue: Humber Downtown\
@@ -353,7 +353,7 @@ BEGIN:VEVENT
 SUMMARY:MeasureCamp Washington DC
 DTSTART:20251004T090000Z
 DURATION:PT8H
-DTSTAMP:20251211T180904Z
+DTSTAMP:20251211T181619Z
 UID:washington-dc-2025@measurecamp.org
 CATEGORIES:conference\,unconference\,analytics\,webanalytics\,measurecamp
 DESCRIPTION:MeasureCamp unconference in Washington DC\n\nVenue: District A
