@@ -37,6 +37,13 @@ class ICSGenerator:
         cal.add('refresh-interval;value=duration', 'P1D')  # Refresh daily
         cal.add('color', '#A32638')  # MeasureCamp brand red
 
+        # Add sequence and last-modified for cache-busting
+        # Calendar apps use this to detect updates and force refresh
+        import time
+        timestamp = int(time.time())
+        cal.add('sequence', timestamp % 10000)  # Unique sequence number
+        cal.add('last-modified', datetime.now(ZoneInfo('UTC')))
+
         for event_data in self.events:
             event = self.create_event(event_data)
             if event:
