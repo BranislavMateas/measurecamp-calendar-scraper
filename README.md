@@ -31,7 +31,7 @@ Automatically scrapes [MeasureCamp](https://www.measurecamp.org/) event informat
 Add this URL to your calendar app:
 
 ```
-https://cdn.jsdelivr.net/gh/BranislavMateas/measurecamp-calendar-scraper@main/measurecamp-events.ics
+https://raw.githubusercontent.com/BranislavMateas/measurecamp-calendar-scraper/main/measurecamp-events.ics
 ```
 
 ### Google Calendar
@@ -46,9 +46,7 @@ https://cdn.jsdelivr.net/gh/BranislavMateas/measurecamp-calendar-scraper@main/me
 3. Paste the URL above
 4. Confirm
 
-The calendar will automatically update daily as new events are added!
-
-**Note:** This URL uses jsDelivr CDN which serves the file with the correct MIME type (`text/calendar`). The calendar will auto-update whenever the file changes on GitHub.
+The calendar will automatically update daily as new events are added via GitHub Actions!
 
 ## Project Structure
 

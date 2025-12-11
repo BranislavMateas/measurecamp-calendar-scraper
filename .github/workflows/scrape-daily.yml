@@ -28,11 +28,6 @@ jobs:
       - name: Scrape MeasureCamp events
         run: python main.py
 
-      - name: Add cache-busting timestamp to ICS
-        run: |
-          TIMESTAMP=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
-          sed -i "s/SEQUENCE:[0-9]*/SEQUENCE:$(date +%s | cut -c6-)/" measurecamp-events.ics
-
       - name: Commit and push changes
         uses: EndBug/add-and-commit@v9
         with:
