@@ -37,3 +37,8 @@ jobs:
           add: 'events.json measurecamp-events.ics'
           push: true
           github_token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Purge jsDelivr CDN cache
+        uses: egad13/purge-jsdelivr-cache@v1
+        with:
+          url: https://cdn.jsdelivr.net/gh/BranislavMateas/measurecamp-calendar-scraper@main/measurecamp-events.ics
