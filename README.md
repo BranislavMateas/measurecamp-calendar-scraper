@@ -31,7 +31,7 @@ Automatically scrapes [MeasureCamp](https://www.measurecamp.org/) event informat
 Add this URL to your calendar app:
 
 ```
-https://raw.githubusercontent.com/braniq/measurecamp-calendar-scraper/main/measurecamp-events.ics
+https://raw.githubusercontent.com/BranislavMateas/measurecamp-calendar-scraper/main/measurecamp-events.ics
 ```
 
 ### Google Calendar
