@@ -109,6 +109,16 @@
       "venue": "District Architecture Center",
       "address": "421 7th St NW, Washington, DC",
       "last_updated": "2025-12-11T19:56:11.261254Z"
+    },
+    {
+      "id": "melbourne-2041",
+      "city": "Melbourne",
+      "url": "https://melbourne.measurecamp.org",
+      "date": "2041-10-27",
+      "time": "09:00",
+      "venue": "Google Melbourne",
+      "address": "TBD3000",
+      "last_updated": "2025-12-19T02:08:29.421915Z"
     }
   ]
 }
