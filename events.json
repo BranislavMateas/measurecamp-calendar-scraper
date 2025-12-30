@@ -119,6 +119,16 @@
       "venue": "Google Melbourne",
       "address": "TBD3000",
       "last_updated": "2025-12-19T02:08:29.421915Z"
+    },
+    {
+      "id": "new-york-2026",
+      "city": "New York",
+      "url": "https://newyork.measurecamp.org/",
+      "date": "2026-03-28",
+      "time": "9:00",
+      "venue": "Publicis Sapient",
+      "address": "375 Hudson St, New York, NY10014",
+      "last_updated": "2025-12-30T02:10:29.342264Z"
     }
   ]
 }
