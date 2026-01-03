@@ -2,8 +2,8 @@ name: Scrape MeasureCamp Events
 
 on:
   schedule:
-    # Run daily at midnight UTC
-    - cron: '0 0 * * *'
+    # Run every 2 days at 1 AM UTC
+    - cron: '0 1 */2 * *'
 
   # Allow manual trigger from Actions tab
   workflow_dispatch:

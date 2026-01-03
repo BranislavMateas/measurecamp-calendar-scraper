@@ -5,6 +5,17 @@ import re
 import time
 from urllib.parse import urlparse
 
+# Headers to mimic a browser request
+BROWSER_HEADERS = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+    'Accept-Language': 'en-US,en;q=0.5',
+    'Accept-Encoding': 'gzip, deflate',
+    'DNT': '1',
+    'Connection': 'keep-alive',
+    'Upgrade-Insecure-Requests': '1'
+}
+
 def get_calendar_events():
     """
     Fetch the main calendar page and extract all event links.
@@ -13,7 +24,7 @@ def get_calendar_events():
     calendar_url = "https://www.measurecamp.org/measurecamp-calendar/"
 
     try:
-        response = requests.get(calendar_url, timeout=10)
+        response = requests.get(calendar_url, headers=BROWSER_HEADERS, timeout=10)
         response.raise_for_status()
     except requests.RequestException as e:
         print(f"Error fetching calendar page: {e}")
@@ -55,7 +66,7 @@ def extract_event_details(event_url):
     - Full address
     """
     try:
-        response = requests.get(event_url, timeout=10)
+        response = requests.get(event_url, headers=BROWSER_HEADERS, timeout=10)
         response.raise_for_status()
     except requests.RequestException as e:
         print(f"Error fetching event page {event_url}: {e}")
