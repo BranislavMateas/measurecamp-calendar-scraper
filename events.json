@@ -109,6 +109,26 @@
       "venue": "District Architecture Center",
       "address": "421 7th St NW, Washington, DC",
       "last_updated": "2025-12-11T19:56:11.261254Z"
+    },
+    {
+      "id": "melbourne-2041",
+      "city": "Melbourne",
+      "url": "https://melbourne.measurecamp.org",
+      "date": "2041-10-27",
+      "time": "09:00",
+      "venue": "Google Melbourne",
+      "address": "TBD3000",
+      "last_updated": "2026-01-03T15:01:58.318269Z"
+    },
+    {
+      "id": "new-york-2026",
+      "city": "New York",
+      "url": "https://newyork.measurecamp.org/",
+      "date": "2026-03-28",
+      "time": "9:00",
+      "venue": "Publicis Sapient",
+      "address": "375 Hudson St, New York, NY10014",
+      "last_updated": "2026-01-03T15:01:58.318280Z"
     }
   ]
 }
