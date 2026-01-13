@@ -129,6 +129,16 @@
       "venue": "Publicis Sapient",
       "address": "375 Hudson St, New York, NY10014",
       "last_updated": "2026-01-03T15:01:58.318280Z"
+    },
+    {
+      "id": "split-2025",
+      "city": "Split",
+      "url": "http://split.measurecamp.org/",
+      "date": "2025-09-06",
+      "time": "9:00",
+      "venue": "MedILS",
+      "address": "Me\u0161trovi\u0107evo \u0161etali\u0161te 45, Split",
+      "last_updated": "2026-01-13T02:49:29.084754Z"
     }
   ]
 }
