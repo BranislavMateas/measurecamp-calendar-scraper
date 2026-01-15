@@ -139,6 +139,16 @@
       "venue": "MedILS",
       "address": "Me\u0161trovi\u0107evo \u0161etali\u0161te 45, Split",
       "last_updated": "2026-01-13T02:49:29.084754Z"
+    },
+    {
+      "id": "paris-2026",
+      "city": "Paris",
+      "url": "https://paris.measurecamp.org/",
+      "date": "2026-06-13",
+      "time": "09:00",
+      "venue": "Digital Campus Paris",
+      "address": "8 bis Rue de la Fontaine au Roi, 75011 Paris",
+      "last_updated": "2026-01-15T02:51:33.134476Z"
     }
   ]
 }
