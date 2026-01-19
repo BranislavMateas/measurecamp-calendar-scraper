@@ -149,6 +149,36 @@
       "venue": "Digital Campus Paris",
       "address": "8 bis Rue de la Fontaine au Roi, 75011 Paris",
       "last_updated": "2026-01-15T02:51:33.134476Z"
+    },
+    {
+      "id": "sri-lanka-2025",
+      "city": "Sri Lanka",
+      "url": "https://srilanka.measurecamp.org/",
+      "date": "2025-05-17",
+      "time": "09:00",
+      "venue": "IIT City Office",
+      "address": "435 Galle Rd, Colombo 03, Sri Lanka",
+      "last_updated": "2026-01-19T03:00:21.422147Z"
+    },
+    {
+      "id": "dublin-2020",
+      "city": "Dublin",
+      "url": "https://dublin.measurecamp.org/",
+      "date": "2020-10-17",
+      "time": "09:00",
+      "venue": "TBC",
+      "address": "TBC",
+      "last_updated": "2026-01-19T03:00:21.422178Z"
+    },
+    {
+      "id": "czechia-2025",
+      "city": "Czechia",
+      "url": "https://czechia.measurecamp.org/",
+      "date": "2025-09-06",
+      "time": "8:30",
+      "venue": "Gen Digital Inc. (Avast)",
+      "address": "P\u0159\u00edzova 5, Brno",
+      "last_updated": "2026-01-19T03:00:21.422200Z"
     }
   ]
 }
