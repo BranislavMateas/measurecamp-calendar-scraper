@@ -6,15 +6,15 @@ METHOD:PUBLISH
 X-WR-CALDESC:MeasureCamp unconference events worldwide
 X-WR-CALNAME:MeasureCamp Events
 COLOR:#A32638
-LAST-MODIFIED:20260119T200631Z
+LAST-MODIFIED:20260121T025321Z
 REFRESH-INTERVAL;VALUE=DURATION:P1D
-SEQUENCE:3191
+SEQUENCE:4001
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:MeasureCamp Malmo
 DTSTART:20260117T090000Z
 DURATION:PT8H
-DTSTAMP:20260119T200631Z
+DTSTAMP:20260121T025321Z
 UID:malmo-2026@measurecamp.org
 CATEGORIES:conference\,unconference\,analytics\,webanalytics\,measurecamp
 DESCRIPTION:MeasureCamp unconference in Malmo\n\nVenue: KAN Malmö Office\
@@ -27,7 +27,7 @@ BEGIN:VEVENT
 SUMMARY:MeasureCamp Melbourne
 DTSTART:20260221T090000Z
 DURATION:PT8H
-DTSTAMP:20260119T200631Z
+DTSTAMP:20260121T025321Z
 UID:melbourne-2026@measurecamp.org
 CATEGORIES:conference\,unconference\,analytics\,webanalytics\,measurecamp
 DESCRIPTION:MeasureCamp unconference in Melbourne\n\nVenue: Google Melbour
@@ -40,7 +40,7 @@ BEGIN:VEVENT
 SUMMARY:MeasureCamp Italy
 DTSTART:20260321T090000Z
 DURATION:PT8H
-DTSTAMP:20260119T200631Z
+DTSTAMP:20260121T025321Z
 UID:italy-2026@measurecamp.org
 CATEGORIES:conference\,unconference\,analytics\,webanalytics\,measurecamp
 DESCRIPTION:MeasureCamp unconference in Italy\n\nVenue: Randstad Box\n\nMo
@@ -53,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:MeasureCamp Helsinki
 DTSTART:20260328T090000Z
 DURATION:PT8H
-DTSTAMP:20260119T200631Z
+DTSTAMP:20260121T025321Z
 UID:helsinki-2026@measurecamp.org
 CATEGORIES:conference\,unconference\,analytics\,webanalytics\,measurecamp
 DESCRIPTION:MeasureCamp unconference in Helsinki\n\nVenue: Helsinki Chambe
@@ -66,7 +66,7 @@ BEGIN:VEVENT
 SUMMARY:MeasureCamp Amsterdam
 DTSTART:20260418T090000Z
 DURATION:PT8H
-DTSTAMP:20260119T200631Z
+DTSTAMP:20260121T025321Z
 UID:amsterdam-2026@measurecamp.org
 CATEGORIES:conference\,unconference\,analytics\,webanalytics\,measurecamp
 DESCRIPTION:MeasureCamp unconference in Amsterdam\n\nVenue: House of Watt\
@@ -79,7 +79,7 @@ BEGIN:VEVENT
 SUMMARY:MeasureCamp New York
 DTSTART:20250405T090000Z
 DURATION:PT8H
-DTSTAMP:20260119T200631Z
+DTSTAMP:20260121T025321Z
 UID:new-york-2025@measurecamp.org
 CATEGORIES:conference\,unconference\,analytics\,webanalytics\,measurecamp
 DESCRIPTION:MeasureCamp unconference in New York\n\nVenue: NJIT - Campus C
@@ -92,7 +92,7 @@ BEGIN:VEVENT
 SUMMARY:MeasureCamp Serbia
 DTSTART:20250405T090000Z
 DURATION:PT8H
-DTSTAMP:20260119T200631Z
+DTSTAMP:20260121T025321Z
 UID:serbia-2025@measurecamp.org
 CATEGORIES:conference\,unconference\,analytics\,webanalytics\,measurecamp
 DESCRIPTION:MeasureCamp unconference in Serbia\n\nVenue: Startit Center Be
@@ -105,7 +105,7 @@ BEGIN:VEVENT
 SUMMARY:MeasureCamp Copenhagen
 DTSTART:20250614T090000Z
 DURATION:PT8H
-DTSTAMP:20260119T200631Z
+DTSTAMP:20260121T025321Z
 UID:copenhagen-2025@measurecamp.org
 CATEGORIES:conference\,unconference\,analytics\,webanalytics\,measurecamp
 DESCRIPTION:MeasureCamp unconference in Copenhagen\n\nVenue: Pandora\n\nMo
@@ -118,7 +118,7 @@ BEGIN:VEVENT
 SUMMARY:MeasureCamp Paris
 DTSTART:20250614T090000Z
 DURATION:PT8H
-DTSTAMP:20260119T200631Z
+DTSTAMP:20260121T025321Z
 UID:paris-2025@measurecamp.org
 CATEGORIES:conference\,unconference\,analytics\,webanalytics\,measurecamp
 DESCRIPTION:MeasureCamp unconference in Paris\n\nVenue: Digital Campus Par
@@ -131,7 +131,7 @@ BEGIN:VEVENT
 SUMMARY:MeasureCamp Toronto
 DTSTART:20251004T090000Z
 DURATION:PT8H
-DTSTAMP:20260119T200631Z
+DTSTAMP:20260121T025321Z
 UID:toronto-2025@measurecamp.org
 CATEGORIES:conference\,unconference\,analytics\,webanalytics\,measurecamp
 DESCRIPTION:MeasureCamp unconference in Toronto\n\nVenue: Humber Downtown\
@@ -144,7 +144,7 @@ BEGIN:VEVENT
 SUMMARY:MeasureCamp Washington DC
 DTSTART:20251004T090000Z
 DURATION:PT8H
-DTSTAMP:20260119T200631Z
+DTSTAMP:20260121T025321Z
 UID:washington-dc-2025@measurecamp.org
 CATEGORIES:conference\,unconference\,analytics\,webanalytics\,measurecamp
 DESCRIPTION:MeasureCamp unconference in Washington DC\n\nVenue: District A
@@ -157,7 +157,7 @@ BEGIN:VEVENT
 SUMMARY:MeasureCamp Melbourne
 DTSTART:20411027T090000Z
 DURATION:PT8H
-DTSTAMP:20260119T200631Z
+DTSTAMP:20260121T025321Z
 UID:melbourne-2041@measurecamp.org
 CATEGORIES:conference\,unconference\,analytics\,webanalytics\,measurecamp
 DESCRIPTION:MeasureCamp unconference in Melbourne\n\nVenue: Google Melbour
@@ -170,7 +170,7 @@ BEGIN:VEVENT
 SUMMARY:MeasureCamp New York
 DTSTART:20260328T090000Z
 DURATION:PT8H
-DTSTAMP:20260119T200631Z
+DTSTAMP:20260121T025321Z
 UID:new-york-2026@measurecamp.org
 CATEGORIES:conference\,unconference\,analytics\,webanalytics\,measurecamp
 DESCRIPTION:MeasureCamp unconference in New York\n\nVenue: Publicis Sapien
@@ -183,7 +183,7 @@ BEGIN:VEVENT
 SUMMARY:MeasureCamp Split
 DTSTART:20250906T090000Z
 DURATION:PT8H
-DTSTAMP:20260119T200631Z
+DTSTAMP:20260121T025321Z
 UID:split-2025@measurecamp.org
 CATEGORIES:conference\,unconference\,analytics\,webanalytics\,measurecamp
 DESCRIPTION:MeasureCamp unconference in Split\n\nVenue: MedILS\n\nMore inf
@@ -196,7 +196,7 @@ BEGIN:VEVENT
 SUMMARY:MeasureCamp Paris
 DTSTART:20260613T090000Z
 DURATION:PT8H
-DTSTAMP:20260119T200631Z
+DTSTAMP:20260121T025321Z
 UID:paris-2026@measurecamp.org
 CATEGORIES:conference\,unconference\,analytics\,webanalytics\,measurecamp
 DESCRIPTION:MeasureCamp unconference in Paris\n\nVenue: Digital Campus Par
@@ -209,7 +209,7 @@ BEGIN:VEVENT
 SUMMARY:MeasureCamp Sri Lanka
 DTSTART:20250517T090000Z
 DURATION:PT8H
-DTSTAMP:20260119T200631Z
+DTSTAMP:20260121T025321Z
 UID:sri-lanka-2025@measurecamp.org
 CATEGORIES:conference\,unconference\,analytics\,webanalytics\,measurecamp
 DESCRIPTION:MeasureCamp unconference in Sri Lanka\n\nVenue: IIT City Offic
@@ -222,7 +222,7 @@ BEGIN:VEVENT
 SUMMARY:MeasureCamp Dublin
 DTSTART:20201017T090000Z
 DURATION:PT8H
-DTSTAMP:20260119T200631Z
+DTSTAMP:20260121T025321Z
 UID:dublin-2020@measurecamp.org
 CATEGORIES:conference\,unconference\,analytics\,webanalytics\,measurecamp
 DESCRIPTION:MeasureCamp unconference in Dublin\n\nVenue: TBC\n\nMore info:
@@ -235,7 +235,7 @@ BEGIN:VEVENT
 SUMMARY:MeasureCamp Czechia
 DTSTART:20250906T083000Z
 DURATION:PT8H
-DTSTAMP:20260119T200631Z
+DTSTAMP:20260121T025321Z
 UID:czechia-2025@measurecamp.org
 CATEGORIES:conference\,unconference\,analytics\,webanalytics\,measurecamp
 DESCRIPTION:MeasureCamp unconference in Czechia\n\nVenue: Gen Digital Inc.
@@ -248,7 +248,7 @@ BEGIN:VEVENT
 SUMMARY:MeasureCamp Dublin
 DTSTART:20260509T090000Z
 DURATION:PT8H
-DTSTAMP:20260119T200631Z
+DTSTAMP:20260121T025321Z
 UID:dublin-2026@measurecamp.org
 CATEGORIES:conference\,unconference\,analytics\,webanalytics\,measurecamp
 DESCRIPTION:MeasureCamp unconference in Dublin\n\nVenue: TBC\n\nMore info:
@@ -261,7 +261,7 @@ BEGIN:VEVENT
 SUMMARY:MeasureCamp Czechia
 DTSTART:20260912T083000Z
 DURATION:PT8H
-DTSTAMP:20260119T200631Z
+DTSTAMP:20260121T025321Z
 UID:czechia-2026@measurecamp.org
 CATEGORIES:conference\,unconference\,analytics\,webanalytics\,measurecamp
 DESCRIPTION:MeasureCamp unconference in Czechia\n\nVenue: TBD\n\nMore info
@@ -269,5 +269,18 @@ DESCRIPTION:MeasureCamp unconference in Czechia\n\nVenue: TBD\n\nMore info
 LOCATION:TBD
 TRANSP:OPAQUE
 URL:https://czechia.measurecamp.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MeasureCamp Los Angeles
+DTSTART:20260530T090000Z
+DURATION:PT8H
+DTSTAMP:20260121T025321Z
+UID:los-angeles-2026@measurecamp.org
+CATEGORIES:conference\,unconference\,analytics\,webanalytics\,measurecamp
+DESCRIPTION:MeasureCamp unconference in Los Angeles\n\nVenue: \n\nMore inf
+ o: http://losangeles.measurecamp.org
+LOCATION:
+TRANSP:OPAQUE
+URL:http://losangeles.measurecamp.org
 END:VEVENT
 END:VCALENDAR

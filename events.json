@@ -199,6 +199,16 @@
       "venue": "TBD",
       "address": "Prague",
       "last_updated": "2026-01-19T20:06:31.128606Z"
+    },
+    {
+      "id": "los-angeles-2026",
+      "city": "Los Angeles",
+      "url": "http://losangeles.measurecamp.org",
+      "date": "2026-05-30",
+      "time": "9:00",
+      "venue": "",
+      "address": "TBD",
+      "last_updated": "2026-01-21T02:53:21.310564Z"
     }
   ]
 }
