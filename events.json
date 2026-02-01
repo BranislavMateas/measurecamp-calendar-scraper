@@ -209,6 +209,26 @@
       "venue": "",
       "address": "TBD",
       "last_updated": "2026-01-21T02:53:21.310564Z"
+    },
+    {
+      "id": "delhi-2025",
+      "city": "Delhi",
+      "url": "https://delhi.measurecamp.org/",
+      "date": "2025-11-08",
+      "time": "9:00",
+      "venue": "Radisson Blu Hotel, New Delhi Dwarka",
+      "address": "Plot 04, Dwarka Walk Mall, Sector 13, Dwarka, New Delhi, Delhi, 110075110075",
+      "last_updated": "2026-02-01T03:43:28.567346Z"
+    },
+    {
+      "id": "chicago-2026",
+      "city": "Chicago",
+      "url": "https://chicago.measurecamp.org/",
+      "date": "2026-09-19",
+      "time": "9:00",
+      "venue": "Leo Burnett Building",
+      "address": "Publicis Sapient:35 W Wacker Dr,Chicago, IL60601",
+      "last_updated": "2026-02-01T03:43:28.567357Z"
     }
   ]
 }
