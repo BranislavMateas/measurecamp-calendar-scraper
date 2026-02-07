@@ -229,6 +229,16 @@
       "venue": "Leo Burnett Building",
       "address": "Publicis Sapient:35 W Wacker Dr,Chicago, IL60601",
       "last_updated": "2026-02-01T03:43:28.567357Z"
+    },
+    {
+      "id": "split-2026",
+      "city": "Split",
+      "url": "http://split.measurecamp.org/",
+      "date": "2026-05-16",
+      "time": "9:00",
+      "venue": "MedILS",
+      "address": "Me\u0161trovi\u0107evo \u0161etali\u0161te 45, Split",
+      "last_updated": "2026-02-07T03:15:26.249209Z"
     }
   ]
 }
