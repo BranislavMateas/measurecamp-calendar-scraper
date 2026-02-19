@@ -239,6 +239,16 @@
       "venue": "MedILS",
       "address": "Me\u0161trovi\u0107evo \u0161etali\u0161te 45, Split",
       "last_updated": "2026-02-07T03:15:26.249209Z"
+    },
+    {
+      "id": "zurich-2026",
+      "city": "Zurich",
+      "url": "https://zurich.measurecamp.org/",
+      "date": "2026-11-21",
+      "time": "09:00",
+      "venue": "Migros Gen.-Bund",
+      "address": "Limmatstrasse 152 (4th floor), Z\u00fcrich8005",
+      "last_updated": "2026-02-19T03:30:56.464516Z"
     }
   ]
 }
