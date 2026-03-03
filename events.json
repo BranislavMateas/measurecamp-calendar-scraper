@@ -259,6 +259,26 @@
       "venue": "Coming Soon",
       "address": "",
       "last_updated": "2026-02-25T03:30:30.275787Z"
+    },
+    {
+      "id": "istanbul-2024",
+      "city": "Istanbul",
+      "url": "https://istanbul.measurecamp.org/",
+      "date": "2024-12-14",
+      "time": "09:00",
+      "venue": "Orjin Maslak",
+      "address": "Maslak, Eski B\u00fcy\u00fckdere Cd. No:2734485",
+      "last_updated": "2026-03-03T03:28:18.834985Z"
+    },
+    {
+      "id": "london-2026",
+      "city": "London",
+      "url": "https://london.measurecamp.org/",
+      "date": "2026-09-26",
+      "time": "09:00",
+      "venue": "Etc Venues Fenchurch Street",
+      "address": "etc.venues Fenchurch Street, 8 Fenchurch Pl, LondonEC3M 4PB",
+      "last_updated": "2026-03-03T03:28:18.835029Z"
     }
   ]
 }
