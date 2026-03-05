@@ -279,6 +279,16 @@
       "venue": "Etc Venues Fenchurch Street",
       "address": "etc.venues Fenchurch Street, 8 Fenchurch Pl, LondonEC3M 4PB",
       "last_updated": "2026-03-03T03:28:18.835029Z"
+    },
+    {
+      "id": "toronto-2026",
+      "city": "Toronto",
+      "url": "https://toronto.measurecamp.org/",
+      "date": "2026-10-03",
+      "time": "9:00",
+      "venue": "TBD",
+      "address": "",
+      "last_updated": "2026-03-05T03:23:21.415501Z"
     }
   ]
 }
