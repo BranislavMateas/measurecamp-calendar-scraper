@@ -289,6 +289,16 @@
       "venue": "TBD",
       "address": "",
       "last_updated": "2026-03-05T03:23:21.415501Z"
+    },
+    {
+      "id": "washington-dc-2026",
+      "city": "Washington DC",
+      "url": "https://washingtondc.measurecamp.org/",
+      "date": "2026-11-07",
+      "time": "9:00",
+      "venue": "Georgetown Capitol Campus",
+      "address": "111 Massachusetts Ave NW, Washington, DC",
+      "last_updated": "2026-03-11T03:16:09.925163Z"
     }
   ]
 }
