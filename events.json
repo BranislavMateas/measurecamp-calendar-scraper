@@ -309,6 +309,16 @@
       "venue": "TBA",
       "address": "Copenhagen",
       "last_updated": "2026-03-13T03:23:03.008343Z"
+    },
+    {
+      "id": "istanbul-2026",
+      "city": "Istanbul",
+      "url": "https://istanbul.measurecamp.org/",
+      "date": "2026-05-09",
+      "time": "09:00",
+      "venue": "Orjin Maslak",
+      "address": "Maslak, Eski B\u00fcy\u00fckdere Cd. No:2734485",
+      "last_updated": "2026-03-15T03:45:18.945343Z"
     }
   ]
 }
