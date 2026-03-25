@@ -319,6 +319,16 @@
       "venue": "Orjin Maslak",
       "address": "Maslak, Eski B\u00fcy\u00fckdere Cd. No:2734485",
       "last_updated": "2026-03-15T03:45:18.945343Z"
+    },
+    {
+      "id": "berlin-2026",
+      "city": "Berlin",
+      "url": "https://berlin.measurecamp.org/",
+      "date": "2026-10-10",
+      "time": "9:00",
+      "venue": "SumUp Offices Berlin",
+      "address": "Koppenstra\u00dfe 8, 10243 Berlin",
+      "last_updated": "2026-03-25T03:32:30.087714Z"
     }
   ]
 }
