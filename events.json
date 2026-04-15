@@ -326,9 +326,9 @@
       "url": "https://berlin.measurecamp.org/",
       "date": "2026-10-10",
       "time": "9:00",
-      "venue": "SumUp Offices Berlin",
-      "address": "Koppenstra\u00dfe 8, 10243 Berlin",
-      "last_updated": "2026-03-25T03:32:30.087714Z"
+      "venue": "SumUp Office Berlin",
+      "address": "Koppenstra\u00dfe 8, 10243 BerlinGoogle",
+      "last_updated": "2026-04-15T03:54:42.548946Z"
     },
     {
       "id": "serbia-2026",
@@ -339,6 +339,16 @@
       "venue": "Inspira Hub",
       "address": "Vladimira Nazora 7, Subotica 24000, Serbia",
       "last_updated": "2026-03-27T03:44:20.966659Z"
+    },
+    {
+      "id": "sydney-2026",
+      "city": "Sydney",
+      "url": "https://sydney.measurecamp.org/",
+      "date": "2026-10-24",
+      "time": "9:00",
+      "venue": "Google",
+      "address": "48 Pirrama Road, Pyrmont2009",
+      "last_updated": "2026-04-15T03:54:42.548955Z"
     }
   ]
 }
