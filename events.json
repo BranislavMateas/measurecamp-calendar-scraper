@@ -349,6 +349,16 @@
       "venue": "Google",
       "address": "48 Pirrama Road, Pyrmont2009",
       "last_updated": "2026-04-15T03:54:42.548955Z"
+    },
+    {
+      "id": "bucharest-2022",
+      "city": "Bucharest",
+      "url": "https://bucharest.measurecamp.org/",
+      "date": "2022-05-14",
+      "time": "09:00",
+      "venue": "Impact Hub",
+      "address": "Bucharest, Floreasca, No. 2 Gara Herastrau Street020334",
+      "last_updated": "2026-04-25T03:47:00.975122Z"
     }
   ]
 }
