@@ -359,6 +359,16 @@
       "venue": "Impact Hub",
       "address": "Bucharest, Floreasca, No. 2 Gara Herastrau Street020334",
       "last_updated": "2026-04-25T03:47:00.975122Z"
+    },
+    {
+      "id": "stockholm-2024",
+      "city": "Stockholm",
+      "url": "https://stockholm.measurecamp.org/",
+      "date": "2024-11-09",
+      "time": "9:00",
+      "venue": "Eidra, Grev Turegatan 1, 114 46 Stockholm",
+      "address": "",
+      "last_updated": "2026-05-05T04:02:13.012523Z"
     }
   ]
 }
