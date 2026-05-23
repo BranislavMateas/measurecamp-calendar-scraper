@@ -379,6 +379,16 @@
       "venue": "Eidra, Grev Turegatan 1, 114 46 Stockholm",
       "address": "",
       "last_updated": "2026-05-13T04:36:34.937735Z"
+    },
+    {
+      "id": "bucharest-2026",
+      "city": "Bucharest",
+      "url": "https://bucharest.measurecamp.org/",
+      "date": "2026-10-03",
+      "time": "09:00",
+      "venue": "TBD",
+      "address": "tbd",
+      "last_updated": "2026-05-23T04:31:10.464231Z"
     }
   ]
 }
