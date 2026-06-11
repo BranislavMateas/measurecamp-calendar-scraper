@@ -389,6 +389,16 @@
       "venue": "Google's Bucharest HQ",
       "address": "\ud83d\udccd 6-8 Corneliu Coposu Blvd, Bucharest",
       "last_updated": "2026-06-09T04:56:54.415093Z"
+    },
+    {
+      "id": "spain-2026",
+      "city": "Spain",
+      "url": "https://spain.measurecamp.org/",
+      "date": "2026-10-24",
+      "time": "09:00",
+      "venue": "Talent Garden",
+      "address": "Calle Juan de Mariana 15, 28045 Madrid, Spain",
+      "last_updated": "2026-06-11T05:16:51.882195Z"
     }
   ]
 }
