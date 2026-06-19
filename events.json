@@ -399,6 +399,16 @@
       "venue": "Talent Garden",
       "address": "Calle Juan de Mariana 15, 28045 Madrid, Spain",
       "last_updated": "2026-06-11T05:16:51.882195Z"
+    },
+    {
+      "id": "auckland-2026",
+      "city": "Auckland",
+      "url": "https://auckland.measurecamp.org/",
+      "date": "2026-09-19",
+      "time": "10:00",
+      "venue": "Sudima Auckland City",
+      "address": "63-67 Nelson Street, Auckland CBD, Auckland1010",
+      "last_updated": "2026-06-19T06:03:09.588007Z"
     }
   ]
 }
