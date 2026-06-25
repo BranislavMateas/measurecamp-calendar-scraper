@@ -409,6 +409,16 @@
       "venue": "Sudima Auckland City",
       "address": "63-67 Nelson Street, Auckland CBD, Auckland1010",
       "last_updated": "2026-06-19T06:03:09.588007Z"
+    },
+    {
+      "id": "sri-lanka-2026",
+      "city": "Sri Lanka",
+      "url": "https://srilanka.measurecamp.org/",
+      "date": "2026-07-18",
+      "time": "09:00",
+      "venue": "People\u2019s Tower",
+      "address": "221 Union Place, Colombo 02, Sri Lanka",
+      "last_updated": "2026-06-25T04:55:23.443983Z"
     }
   ]
 }
