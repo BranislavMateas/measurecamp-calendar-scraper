@@ -419,6 +419,16 @@
       "venue": "People\u2019s Tower",
       "address": "374, Dr Colvin R de Silva Mawatha, Colombo 00200",
       "last_updated": "2026-07-03T04:33:30.268521Z"
+    },
+    {
+      "id": "mexico-city-2025",
+      "city": "Mexico City",
+      "url": "https://mexicocity.measurecamp.org/",
+      "date": "2025-10-25",
+      "time": "9:00",
+      "venue": "TEC - Campus Santa F\u00e9",
+      "address": "Av Carlos Lazo 100, Santa Fe, La Loma, \u00c1lvaro Obreg\u00f3n, Ciudad de M\u00e9xico, CDMX01389",
+      "last_updated": "2026-07-09T04:39:28.853020Z"
     }
   ]
 }
