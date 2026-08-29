@@ -439,6 +439,16 @@
       "venue": "EGOB Tec de Monterrey",
       "address": "Av. Revoluci\u00f3n 756, Nonoalco, Benito Ju\u00e1rez, Ciudad de M\u00e9xico, CDMX03700",
       "last_updated": "2026-07-29T03:57:11.706925Z"
+    },
+    {
+      "id": "new-york-2027",
+      "city": "New York",
+      "url": "https://newyork.measurecamp.org/",
+      "date": "2027-03-13",
+      "time": "9:00",
+      "venue": "Publicis Sapient",
+      "address": "375 Hudson St, New York, NY10014",
+      "last_updated": "2026-08-29T07:29:31.222483Z"
     }
   ]
 }
