@@ -1,11 +1,6 @@
 name: Scrape MeasureCamp Events
 
 on:
-  push:
-    branches:
-      - main
-    paths:
-      - .github/workflows/scrape-daily.yml
   schedule:
     # Run every 2 days at 1 AM UTC
     - cron: '0 1 */2 * *'
