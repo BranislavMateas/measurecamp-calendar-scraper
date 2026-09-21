@@ -449,6 +449,16 @@
       "venue": "Publicis Sapient",
       "address": "375 Hudson St, New York, NY10014",
       "last_updated": "2026-08-29T07:29:31.222483Z"
+    },
+    {
+      "id": "brussels-2026",
+      "city": "Brussels",
+      "url": "https://brussels.measurecamp.org/",
+      "date": "2026-11-14",
+      "time": "9:30",
+      "venue": "Les Ateliers des Tanneurs",
+      "address": "Rue des Tanneurs 60A, 1000 Bruxelles(see on",
+      "last_updated": "2026-09-21T05:34:52.377287Z"
     }
   ]
 }
