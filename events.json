@@ -459,6 +459,16 @@
       "venue": "Les Ateliers des Tanneurs",
       "address": "Rue des Tanneurs 60A, 1000 Bruxelles(see on",
       "last_updated": "2026-09-21T05:34:52.377287Z"
+    },
+    {
+      "id": "toronto-2027",
+      "city": "Toronto",
+      "url": "https://toronto.measurecamp.org/",
+      "date": "2027-10-02",
+      "time": "9:00",
+      "venue": "TBD",
+      "address": "",
+      "last_updated": "2026-10-07T06:37:55.357462Z"
     }
   ]
 }
