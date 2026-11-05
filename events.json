@@ -469,6 +469,16 @@
       "venue": "TBD",
       "address": "",
       "last_updated": "2026-10-07T06:37:55.357462Z"
+    },
+    {
+      "id": "amsterdam-2027",
+      "city": "Amsterdam",
+      "url": "https://amsterdam.measurecamp.org/",
+      "date": "2027-04-17",
+      "time": "09:00",
+      "venue": "House of Watt",
+      "address": "James Wattstraat 73, 1097 DL Amsterdam",
+      "last_updated": "2026-11-05T07:28:13.900059Z"
     }
   ]
 }
