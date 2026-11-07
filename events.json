@@ -479,6 +479,16 @@
       "venue": "House of Watt",
       "address": "James Wattstraat 73, 1097 DL Amsterdam",
       "last_updated": "2026-11-05T07:28:13.900059Z"
+    },
+    {
+      "id": "helsinki-2027",
+      "city": "Helsinki",
+      "url": "https://helsinki.measurecamp.org/",
+      "date": "2027-04-03",
+      "time": "9:00",
+      "venue": "Helsinki Chamber of Commerce",
+      "address": "Kalevankatu 1200100 Helsinki",
+      "last_updated": "2026-11-07T06:40:26.200248Z"
     }
   ]
 }
