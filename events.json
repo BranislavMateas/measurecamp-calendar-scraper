@@ -489,6 +489,26 @@
       "venue": "Helsinki Chamber of Commerce",
       "address": "Kalevankatu 1200100 Helsinki",
       "last_updated": "2026-11-07T06:40:26.200248Z"
+    },
+    {
+      "id": "italy-2027",
+      "city": "Italy",
+      "url": "https://italy.measurecamp.org/",
+      "date": "2027-03-13",
+      "time": "09:00",
+      "venue": "Randstad Box",
+      "address": "Via S. Vigilio, 5, 20142 Milano MI",
+      "last_updated": "2026-11-13T07:25:41.111680Z"
+    },
+    {
+      "id": "washington-dc-2027",
+      "city": "Washington DC",
+      "url": "https://washingtondc.measurecamp.org/",
+      "date": "2027-11-06",
+      "time": "9:00",
+      "venue": "Georgetown Capitol Campus",
+      "address": "111 Massachusetts Ave NW, Washington, DC",
+      "last_updated": "2026-11-13T07:25:41.111781Z"
     }
   ]
 }
