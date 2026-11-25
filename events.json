@@ -509,6 +509,16 @@
       "venue": "Georgetown Capitol Campus",
       "address": "111 Massachusetts Ave NW, Washington, DC",
       "last_updated": "2026-11-13T07:25:41.111781Z"
+    },
+    {
+      "id": "spain-2027",
+      "city": "Spain",
+      "url": "https://spain.measurecamp.org/",
+      "date": "2027-05-29",
+      "time": "09:00",
+      "venue": "Talent Garden",
+      "address": "Calle Juan de Mariana 15, 28045 Madrid, Spain",
+      "last_updated": "2026-11-25T09:18:36.815785Z"
     }
   ]
 }
